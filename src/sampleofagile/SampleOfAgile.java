@@ -18,6 +18,7 @@ public class SampleOfAgile {
         System.out.println("Main");
         System.out.println("Masdfasain");
         System.out.println("first-branch");
+        System.out.println("second-branch");
     }
     
 }
